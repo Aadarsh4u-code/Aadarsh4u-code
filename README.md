@@ -24,17 +24,11 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Fast API" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Fast API" width="40" height="40"/></a>
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://react.dev/learn" target="_blank"> <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" alt="React Js" width="40" height="40"/></a>
   
 </p>
-
-
-
-
-- 📫 How to reach me: ...https://www.linkedin.com/in/aadarsh-kushwaha-54a281194/
-
 
 ### My Hobbies and interests:
 
