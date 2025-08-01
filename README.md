@@ -45,10 +45,15 @@
 <div>
  
   ### I have technical experience and interest in:
+  * Software Engineering
   * Machine Learning
   * Deep Learning
   * Generative AI
   * Natural Language Processing
+  * LLMs
+  * HuggingFace
+  * LangChain
+  * PyTorch
   * MLOps
   * SQL
   * ETL  
