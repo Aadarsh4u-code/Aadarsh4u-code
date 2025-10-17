@@ -3,6 +3,41 @@
 </h1>
 
 <h4 align="center">A software engineer and passionate data science enthusiast 😀</h4>
+<p>
+<h3> 💫 About Me </h3>
+
+Hi, I’m Aadarsh Kushwaha, a passionate Data Scientist and Full-Stack Developer with a strong foundation in Computer Science Engineering and hands-on experience across SaaS, Data Analytics, and Software Development domains.
+
+I completed my Bachelor’s degree in Computer Science Engineering, after which I worked for 2.5 years with an Australian company, contributing to a large-scale SaaS project. During that period, I discovered my deep interest in Data Science and Machine Learning, which led me to pursue a Master’s degree in Data Analytics.
+
+Currently, I’m working as a Junior Data Scientist for an American company, where I apply analytical and machine learning techniques to solve real-world business problems. Alongside, I’m also part of a startup gaming company in Ireland as a Backend & Full-Stack Developer, building scalable systems using Python, FastAPI, React, and Next.js.
+
+<h3> 🚀 What I Bring  </h3>
+
+  - Data Science & Analytics – Skilled in data preprocessing, visualization, and building predictive models using Python (Pandas, NumPy, Scikit-learn, TensorFlow).
+  
+  - Full-Stack Development – Experienced with React, Next.js, FastAPI, and modern deployment tools for building performant web applications.
+  
+  - Problem-Solving – A curious learner with a focus on creating data-driven solutions that improve efficiency and user experience.
+  
+  - Cross-Functional Collaboration – Experienced in working with teams across time zones (Australia, USA, and Ireland), bridging technical and business needs.
+
+<h3> 🎯 Interests  </h3>
+
+I’m particularly interested in opportunities within the domains of:
+
+  - Finance
+  
+  - E-Commerce
+  
+  - Logistics
+  
+  - Insurance
+    
+  - Gaming
+  
+  where I can apply my skills in Data Science, Machine Learning, and Full-Stack Engineering to drive impactful solutions.
+</p>
 
 <!-- Profile Views -->
 <p align="left">
