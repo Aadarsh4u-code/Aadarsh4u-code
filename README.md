@@ -2,8 +2,31 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5OGxianhwZDZrcWt0djZqeWpxamp0YjBzaW1yZTVucjE0ODF1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/888R35MJTmDxQfRzfS/giphy.gif" width="70" height="70"/> Nice to see you! I'm Aadarsh Kushwaha.
 </h1>
 
-<h4 align="center">A software engineer and passionate data science enthusiast 😀</h4>
+<h4 align="center">Software Engineer | AI Engineer</h4>
+<h3>💫 About Me</h3>
 <p>
+I'm A Full Stack Engineer with 4+ years of experience building production systems — SaaS platforms, workflow automation tools, multi-agent AI architectures, and ML-powered data products. Based in Dublin, Ireland.
+</p>
+
+<h3>🚀 What I'm Working On</h3>
+<ul>
+  <li>Multi-agent data platform (LangGraph, RAG/CRAG) for a multi-tenant real estate system — cut LLM costs by ~65% and built a self-healing SQL pipeline handling 85% of errors automatically.</li>
+  <li>Full stack daily: React 18/TypeScript frontends, async Python backends (FastAPI, Django), vector databases (PGVector, ChromaDB), AWS infrastructure.</li>
+</ul>
+
+<h3>🛠️ What I've Built</h3>
+<ul>
+  <li>Workflow automation platform (React + FastAPI) — eliminated 75% of manual operations across 80 users.</li>
+  <li>ML prediction system with React interface — adopted as primary quoting tool by underwriting teams.</li>
+  <li>SaaS POS system deployed across 2,000+ businesses with payment gateway integration.</li>
+  <li>Drag-and-drop form builder (GrapesJS) removing developer dependency for non-technical users.</li>
+</ul>
+
+<h3>🎯 Open To</h3>
+<p>
+Full Stack Engineer, AI Engineer, Frontend Engineer (AI), and Software Engineer roles across domains like Real Estate, E-Commerce, Insurance, and Finance.
+</p>
+<!-- <p>
 <h3> 💫 About Me </h3>
 
 Hi, I’m Aadarsh Kushwaha, a passionate Data Scientist and Full-Stack Developer with a strong foundation in Computer Science Engineering and hands-on experience across SaaS, Data Analytics, and Software Development domains.
@@ -37,7 +60,7 @@ I’m particularly interested in opportunities within the domains of:
   - Gaming
   
   where I can apply my skills in Data Science, Machine Learning, and Full-Stack Engineering to drive impactful solutions.
-</p>
+</p> -->
 
 <!-- Profile Views -->
 <p align="left">
