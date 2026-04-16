@@ -2,29 +2,66 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5OGxianhwZDZrcWt0djZqeWpxamp0YjBzaW1yZTVucjE0ODF1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/888R35MJTmDxQfRzfS/giphy.gif" width="70" height="70"/> Nice to see you! I'm Aadarsh Kushwaha.
 </h1>
 
-<h4 align="center">Software Engineer | Full-Stack Engineer (AI)</h4>
-<h3>💫 About Me</h3>
-<p>
-I'm A Full Stack Engineer with 4+ years of experience building production systems — SaaS platforms, workflow automation tools, multi-agent AI architectures, and ML-powered data products. Based in Dublin, Ireland.
-</p>
+# About Me
 
-<h3>🚀 Recent Work</h3>
-  <li>Built a multi-agent data platform using LangGraph and RAG/CRAG for a multi-tenant real estate system, reducing LLM costs by ~65% and implementing a self-healing SQL pipeline that resolves ~85% of query errors automatically.</li>
-  <li>Developed full-stack systems across React and TypeScript frontends, async Python backends (FastAPI, Django), integrating vector databases (PGVector) and deploying on AWS</li>
-</ul>
+Full Stack Software Engineer with experience building production SaaS systems across frontend, backend, and applied AI. Focused on building scalable, reliable, and practical systems used in real-world environments.
 
-<h3>🛠️ What I've Built</h3>
-<ul>
-  <li>Workflow automation platform (React + FastAPI) — eliminated 75% of manual operations across 80 users.</li>
-  <li>ML prediction system with React interface — adopted as primary quoting tool by underwriting teams.</li>
-  <li>SaaS POS system deployed across 2,000+ businesses with payment gateway integration.</li>
-  <li>Drag-and-drop form builder using pure react component removing developer dependency for non-technical users.</li>
-</ul>
+---
 
-<!-- <h3>🎯 Open To</h3>
-<p>
-Full Stack Engineer, AI Engineer, Frontend Engineer (AI), and Software Engineer roles across domains like Real Estate, E-Commerce, Insurance, and Finance.
-</p> -->
+# Core Experience
+
+## AI Systems & Multi-Agent Platforms
+
+- Built a multi-agent data platform for a multi-tenant real estate system, enabling Text-to-SQL querying and document-based Q&A using RAG pipelines.
+
+- Reduced LLM cost by 65% and latency by 60% by optimizing agent workflows through semantic routing and minimizing model calls.
+
+- Improved system reliability by building a self-healing SQL pipeline that resolves 85% of query failures automatically.
+
+- Implemented tenant-level data isolation and access control to ensure secure query execution across users and datasets.
+
+- Designed system architecture across FastAPI (async agent engine) and Django (authentication, RBAC, audit logging) for scalable production use.
+- A full-stack AI application that enables semantic image search, automated tagging, and conversational image discovery using an on-device CLIP model, React frontend, and Node.js backend.[https://github.com/Aadarsh4u-code/ai-enhanced-image-gallery]
+
+---
+
+## Frontend & Product Engineering
+
+- Built a SaaS workflow automation platform using React and FastAPI.
+
+- Developed a drag-and-drop form builder with reusable React components, enabling non-technical users to create and manage forms independently.
+
+- Built a dashboard builder using GrapesJS to support data visualization (bar, line charts) without developer involvement.
+
+- Improved frontend performance and maintainability by refactoring legacy code, decoupling frontend from backend, and upgrading to Webpack 5 with code splitting.
+
+---
+
+## Backend Systems
+
+- Built and maintained FastAPI-based backend services supporting APIs, data processing, and background tasks.
+
+- Integrated Redis caching (~40% hit rate) and rate limiting to ensure stable performance under production load.
+
+- Deployed services using Docker and AWS (ECS, CI/CD pipelines).
+
+---
+
+## Machine Learning Systems
+
+- Developed and deployed an XGBoost-based prediction system achieving 98.75% accuracy.
+
+- Improved model reliability through error analysis, feature selection, and hyperparameter tuning.
+
+- Ensured reproducibility and stability using MLflow and testing pipelines.
+
+---
+
+# Additional Work
+
+- Expense tracking backend with authentication and async processing  
+- RAG-based applications using vector search and LLMs  
+- React-based interface used for decision support systems  
 
 <!-- Profile Views -->
 <p align="left">
@@ -33,11 +70,11 @@ Full Stack Engineer, AI Engineer, Frontend Engineer (AI), and Software Engineer 
 
 
 <!-- GitHub Trophies -->
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aadarsh4u-code" alt="aadarshkushwaha" width="100%"/>
   </a> 
-</p>
+</p> -->
 
 
 <h3>Languages and Tools:</h3>
@@ -68,19 +105,6 @@ Full Stack Engineer, AI Engineer, Frontend Engineer (AI), and Software Engineer 
 
 <div>
  
-  ### I have technical experience in:
-  * Software Engineering
-  * Machine Learning
-  * Deep Learning
-  * Generative AI
-  * Natural Language Processing
-  * LLMs
-  * HuggingFace
-  * LangChain
-  * PyTorch
-  * MLOps
-  * SQL
-  * ETL  
 
 ### My Hobbies and interests:
 
@@ -92,17 +116,17 @@ Full Stack Engineer, AI Engineer, Frontend Engineer (AI), and Software Engineer 
 </div>
 
 <!-- Profile Stats -->
-<p align="left">
+<!-- <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aadarsh4u-code&show_icons=true&locale=en" alt="aadarshkushwaha" />
-</p>
+</p> -->
 
 <!-- GitHub Streak -->
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarsh4u-code&" alt="aadarshkushwaha" />
-</p>
+</p> -->
 
 <!-- Top Languages -->
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarsh4u-code&show_icons=true&locale=en" alt="aadarshkushwaha" width="470px"/>
-</p>
+</p> -->
   
