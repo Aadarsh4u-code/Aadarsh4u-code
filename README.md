@@ -2,16 +2,15 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5OGxianhwZDZrcWt0djZqeWpxamp0YjBzaW1yZTVucjE0ODF1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/888R35MJTmDxQfRzfS/giphy.gif" width="70" height="70"/> Nice to see you! I'm Aadarsh Kushwaha.
 </h1>
 
-<h4 align="center">Software Engineer | AI Engineer</h4>
+<h4 align="center">Software Engineer | Full-Stack Engineer (AI)</h4>
 <h3>💫 About Me</h3>
 <p>
 I'm A Full Stack Engineer with 4+ years of experience building production systems — SaaS platforms, workflow automation tools, multi-agent AI architectures, and ML-powered data products. Based in Dublin, Ireland.
 </p>
 
-<h3>🚀 What I'm Working On</h3>
-<ul>
-  <li>Multi-agent data platform (LangGraph, RAG/CRAG) for a multi-tenant real estate system — cut LLM costs by ~65% and built a self-healing SQL pipeline handling 85% of errors automatically.</li>
-  <li>Full stack daily: React 18/TypeScript frontends, async Python backends (FastAPI, Django), Node.js(Express), vector databases (PGVector, ChromaDB), AWS/Azure infrastructure.</li>
+<h3>🚀 Recent Work</h3>
+  <li>Built a multi-agent data platform using LangGraph and RAG/CRAG for a multi-tenant real estate system, reducing LLM costs by ~65% and implementing a self-healing SQL pipeline that resolves ~85% of query errors automatically.</li>
+  <li>Developed full-stack systems across React and TypeScript frontends, async Python backends (FastAPI, Django), integrating vector databases (PGVector) and deploying on AWS</li>
 </ul>
 
 <h3>🛠️ What I've Built</h3>
@@ -22,10 +21,10 @@ I'm A Full Stack Engineer with 4+ years of experience building production system
   <li>Drag-and-drop form builder using pure react component removing developer dependency for non-technical users.</li>
 </ul>
 
-<h3>🎯 Open To</h3>
+<!-- <h3>🎯 Open To</h3>
 <p>
 Full Stack Engineer, AI Engineer, Frontend Engineer (AI), and Software Engineer roles across domains like Real Estate, E-Commerce, Insurance, and Finance.
-</p>
+</p> -->
 
 <!-- Profile Views -->
 <p align="left">
